@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: Poggerino
+## Notes: Attaches erino to everything you say.
+## Author: Bergador
+## Version: 1.0
+## Dependencies:
+Poggerino.lua
